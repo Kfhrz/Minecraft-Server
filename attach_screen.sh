@@ -4,4 +4,4 @@
 SESSION_NAME="minecraft_server"
 
 # Attach to the screen session
-screen -r $SESSION_NAME
+screen -dr $SESSION_NAME
